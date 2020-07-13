@@ -1,0 +1,8 @@
+name: research
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - jupyterlab

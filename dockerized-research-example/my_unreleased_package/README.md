@@ -1,0 +1,1 @@
+This is a dummy package that installs nothing, but this is where your hypothetically unreleased package should live.
